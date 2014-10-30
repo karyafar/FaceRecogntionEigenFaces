@@ -1,4 +1,8 @@
 # A eigenfaces based face-recognition module.
+
+#Orignially intended for work on intelligent recognition of Yale Face Database.
+
+
 # It reads faces from the picture of Solvay Conference, studded with famous minds. 
 
 #the path for solvay conference group picture
