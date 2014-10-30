@@ -6,7 +6,7 @@ Originally built for intelligent recognition of images in Yale Face Database. Mo
 Facerec.py
 Reads AT&T face database and creates a map of eigenvalue for the face data.
 
-Facerec.py
+Facerec_video.py
 Inputs a live video stream and attempts to identify the faces in the video.
 
 
